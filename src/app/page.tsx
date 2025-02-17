@@ -3,7 +3,7 @@ import { Orders } from "./_components/Orders";
 
 export default function Home() {
   return (
-    <div>
+    <div className="flex">
       <NomNom />
       <Orders />
     </div>
