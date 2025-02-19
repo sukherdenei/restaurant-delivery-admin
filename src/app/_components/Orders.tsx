@@ -14,7 +14,7 @@ export const Orders = () => {
         </div>
         <div className="flex h-[44px] items-center rounded-full gap-[8px]">
           <p className="w-[300px]">13 June 2023 - 14 July 2023</p>
-          <p className="bg-[#FFFFFF] rounded-md">Change delivery state</p>
+          <p className="bg-[#FAFAFA] rounded-md">Change delivery state</p>
         </div>
       </div>
       <div className="flex justify-between w-[1171px] h-[52px] items-center">
