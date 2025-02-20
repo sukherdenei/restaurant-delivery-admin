@@ -3,7 +3,7 @@ import { Toggle } from "@/components/ui/toggle";
 
 export const NomNom = () => {
   return (
-    <div className="flex w-[205px] items-center gap-10 flex-col">
+    <div className="flex w-[205px] items-center gap-10 flex-col border-[1px] h-[100vh]">
       <div className="flex gap-2 w-[165px] h-[44px] mt-[36px]">
         <div className="">
           <Image
